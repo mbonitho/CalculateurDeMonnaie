@@ -1,0 +1,15 @@
+{
+  "name": "Calculateur de monnaie",
+  "short_name": "Calculateur de monnaie",
+  "id": "com.fluburbio.calculateurmonnaie",
+  "description": "Calcul la monnaie à rendre",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "iconeAppli.png",
+        "sizes": "512x512"
+      }]
+}
